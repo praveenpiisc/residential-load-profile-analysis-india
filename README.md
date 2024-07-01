@@ -1,2 +1,2 @@
 # smartenergy
-Smart Meter Energy Analysis Tool
+Two stage clustering - Auto Encoder based feature extraction + K-shape algorithm
