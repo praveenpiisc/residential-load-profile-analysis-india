@@ -25,3 +25,6 @@ demand. Subsequently, targeted price-based or incentive-based demand
 response schemes can be devised for these consumer clusters.
 
 ![image](https://github.com/user-attachments/assets/7a78b9a0-15f5-4f52-8979-f7f1ffd2b116)
+
+# Cite this work
+Praveen, P., Balachandra, P., Arjunan, P. (2025). Enhanced Consumer Segmentation Through Load Profile Analysis Using Autoencoder and K-Shape Clustering. In: Jørgensen, B.N., Ma, Z.G., Wijaya, F.D., Irnawan, R., Sarjiya, S. (eds) Energy Informatics. EI.A 2024. Lecture Notes in Computer Science, vol 15271. Springer, Cham. https://doi.org/10.1007/978-3-031-74738-0_19
