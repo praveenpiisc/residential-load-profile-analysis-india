@@ -1,4 +1,5 @@
-# Auto-encoder + K-shape clustering
+# Enhanced Consumer Segmentation through Load Profile Analysis Using Autoencoder and K-shape Clustering
+
 In India, residential consumers are traditionally segmented
 based on their monthly energy consumption. The adoption of Advanced
 Metering Infrastructure offers an opportunity to utilize detailed smart
