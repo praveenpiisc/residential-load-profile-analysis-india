@@ -23,3 +23,5 @@ method. These clusters can be analyzed alongside the total load curve of
 a state or region for a given day to identify those contributing to peak
 demand. Subsequently, targeted price-based or incentive-based demand
 response schemes can be devised for these consumer clusters.
+
+![image](https://github.com/user-attachments/assets/7a78b9a0-15f5-4f52-8979-f7f1ffd2b116)
